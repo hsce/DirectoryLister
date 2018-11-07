@@ -1,6 +1,11 @@
 <hr>
 
 <div class="footer">
-    <p> <a href="http://www.lia.im/">Hello world</a> - Powered by Directory Lister - Hosting by <a href="https://clientarea.ramnode.com/aff.php?aff=4217" target="_blank" rel="nofollow">RamNode</a> - <a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">粤ICP备18021459号-2</a>
-
+          <div class="footer">Copyright &copy; 2016 - 
+          <!-- 自动更新版权时间代码开始 -->
+        <script>// <![CDATA[
+  document.write(new Date().getFullYear());
+// ]]></script>
+        <!-- 自动更新版权时间代码结束 -->
+        <a href="https://www.mliy.net/" title="Carignor" target="_blank">QiMeng</a> ♡ <a href="https://github.com/ikym/DirectoryLister" title="Caringor" target="_blank">DirectoryLister</a> .</div>
 </div>
