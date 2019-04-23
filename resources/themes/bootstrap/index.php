@@ -4,7 +4,7 @@
 
     <head>
 
-        <title>Cyril Cloud <?php echo $lister->getListedPath(); ?></title>
+        <title> CY File <?php echo $lister->getListedPath(); ?></title>
         <link rel="shortcut icon" href="<?php echo THEMEPATH; ?>/img/folder.png">
 
         <!-- STYLES -->
