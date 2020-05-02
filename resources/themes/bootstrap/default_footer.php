@@ -7,5 +7,5 @@
   document.write(new Date().getFullYear());
 // ]]></script>
         <!-- 自动更新版权时间代码结束 -->
-        <a href="https://lia.im" title="Carignor" target="_blank">CY</a> ♡ <a href="https://github.com/ikym/DirectoryLister" title="Caringor" target="_blank">DirectoryLister</a> .</div>
+        <a href="https://hxzo.com" title="Carignor" target="_blank">HXZO</a> ♡ <a href="https://github.com/ikym/DirectoryLister" title="Caringor" target="_blank">DirectoryLister</a> .</div>
 </div>
